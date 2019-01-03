@@ -1,0 +1,23 @@
+{
+  "packageID": "pv_store",
+  "name": "pv_store",
+  "label": "Store",
+  "description": "The ProVallo Plugin Store",
+  "author": "tyurderi",
+  "website": "https://www.yurderi.de",
+  "email": "tyurderi@yahoo.de",
+  "version": "1.0.0",
+  "changelog": {
+    "1.0.0": [
+      "Initial release"
+    ]
+  },
+  "requires": {
+    "Backend": "1.0.6",
+    "Savas": "1.0.5"
+  },
+  "package": {
+    "channel": "stable",
+    "platform": "provallo-plugin"
+  }
+}
